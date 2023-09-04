@@ -44,4 +44,4 @@ $ npm run start
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/srsouzaj/imhere/blob/master/LICENSE.md) para mais detalhes.
 
-Feito com ❤️ por Jorge de Souza
+Feito com ❤️ por Wesleson Souza
