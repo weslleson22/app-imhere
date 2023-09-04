@@ -1,14 +1,11 @@
 <p align="center">
-  <img alt="Logo" src=".github/logo.png" />
+  <img alt="Logo" src="https://github.com/weslleson22/Imagens-project/blob/main/React-Native/Projeto1.png" />
 </p>
 
 ## **💻** Projeto
 
 Para aprofundar ainda mais meus conhecimentos sendo alinhado com as novas e melhores práticas e tecnologias disponíveis no mundo da tecnologia, desenvolvi uma aplicação mobile durante o programa de aceleração “Ignite - React Native”, onde contruímos um sistema de lista de presença, onde é possível adicionar e remover participantes, utilizando react hooks e expo.
 
-<p align="center">
-  <img alt="background" src=".github/background.png" />
-</p>
 
 ## 🚀 Tecnologias utilizadas
 
